@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36cda1afc8d3fb5ec102ad47898ab238",
+    "revision": "012a3d719f3dd14e5e64453e9376c688",
     "url": "/cDG-HG-calculator/index.html"
   },
   {
-    "revision": "506d8cd1eb4b5d0cdd97",
+    "revision": "e76c4a4b8d94e79d2833",
     "url": "/cDG-HG-calculator/static/css/main.831c290c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cDG-HG-calculator/static/js/2.874a3050.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "506d8cd1eb4b5d0cdd97",
-    "url": "/cDG-HG-calculator/static/js/main.f21523a5.chunk.js"
+    "revision": "e76c4a4b8d94e79d2833",
+    "url": "/cDG-HG-calculator/static/js/main.ea7fa8d1.chunk.js"
   },
   {
     "revision": "86b38b567c81ec6c9293",

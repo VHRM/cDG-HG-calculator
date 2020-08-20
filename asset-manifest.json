@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cDG-HG-calculator/static/css/main.831c290c.chunk.css",
-    "main.js": "/cDG-HG-calculator/static/js/main.f21523a5.chunk.js",
-    "main.js.map": "/cDG-HG-calculator/static/js/main.f21523a5.chunk.js.map",
+    "main.js": "/cDG-HG-calculator/static/js/main.ea7fa8d1.chunk.js",
+    "main.js.map": "/cDG-HG-calculator/static/js/main.ea7fa8d1.chunk.js.map",
     "runtime-main.js": "/cDG-HG-calculator/static/js/runtime-main.f702a588.js",
     "runtime-main.js.map": "/cDG-HG-calculator/static/js/runtime-main.f702a588.js.map",
     "static/js/2.874a3050.chunk.js": "/cDG-HG-calculator/static/js/2.874a3050.chunk.js",
     "static/js/2.874a3050.chunk.js.map": "/cDG-HG-calculator/static/js/2.874a3050.chunk.js.map",
     "index.html": "/cDG-HG-calculator/index.html",
-    "precache-manifest.1647ad5fb9f310108e9cdef6f3fd1b81.js": "/cDG-HG-calculator/precache-manifest.1647ad5fb9f310108e9cdef6f3fd1b81.js",
+    "precache-manifest.8043b867043721477370d6df3d21e8ef.js": "/cDG-HG-calculator/precache-manifest.8043b867043721477370d6df3d21e8ef.js",
     "service-worker.js": "/cDG-HG-calculator/service-worker.js",
     "static/css/main.831c290c.chunk.css.map": "/cDG-HG-calculator/static/css/main.831c290c.chunk.css.map",
     "static/js/2.874a3050.chunk.js.LICENSE.txt": "/cDG-HG-calculator/static/js/2.874a3050.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f702a588.js",
     "static/js/2.874a3050.chunk.js",
     "static/css/main.831c290c.chunk.css",
-    "static/js/main.f21523a5.chunk.js"
+    "static/js/main.ea7fa8d1.chunk.js"
   ]
 }
