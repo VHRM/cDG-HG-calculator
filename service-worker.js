@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cDG-HG-calculator/precache-manifest.d8797e44f489a95fcfbac3d3e91ea0ac.js"
+  "/cDG-HG-calculator/precache-manifest.1647ad5fb9f310108e9cdef6f3fd1b81.js"
 );
 
 self.addEventListener('message', (event) => {

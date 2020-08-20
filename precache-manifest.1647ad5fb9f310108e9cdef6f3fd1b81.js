@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67028cb361bd90aff90a397e3204dd6c",
+    "revision": "36cda1afc8d3fb5ec102ad47898ab238",
     "url": "/cDG-HG-calculator/index.html"
   },
   {
