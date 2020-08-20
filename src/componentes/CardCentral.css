@@ -1,0 +1,68 @@
+.Dg-card{
+    width: 70%;
+    max-width: 1300px;
+    min-height: 75vh;
+    background-color: #64070b;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 50px;
+    box-shadow:  4px 4px 4px rgba(134, 15, 14, 0.4),-4px -4px 4px rgba(201, 53, 27, 0.4);
+}
+.App-name{
+    text-align: center;
+    color: #ffffff;
+}
+.score{
+    font-size: 100px;
+    text-align: center;
+    color: #ffffff;
+}
+.buttons{
+    width: 50%;
+    margin: 0 auto 50px auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    gap: 50px;
+}
+.ratao{
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 64px
+}
+button{
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 32px;
+    letter-spacing: 10px;
+}
+button:active{
+    border: none;
+    outline: none;
+    padding: 0;
+}
+#win,
+#lose{
+    width: calc(40% - 25px);
+}
+#rato,
+#reset{
+    width: 80%;
+}
+#win{
+    background-color: #09E85E;
+    color: #ffffff;
+}
+#lose{
+    background-color: #DF2935;
+    color: #ffffff;
+}
+#rato{
+    color: #EC058E;
+}
+#reset{
+    color: #757575;
+}
